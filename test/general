@@ -22,7 +22,7 @@ static=Others, Outside, direct, img-url=https://raw.githubusercontent.com/GeQ1an
 
 [filter_remote]
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list, tag=AdBlock, enabled=true
-https://raw.githubusercontent.com/testquanxlist/master/main/KMedia.list, tag=KMedia, enabled=true
+https://raw.githubusercontent.com/testquanxlist/QX/main/test/KMedia.list, tag=KMedia, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Apple.list, tag=Apple, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list, tag=CMedia, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/Netflix.list, tag=Netflix, enabled=true
