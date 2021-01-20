@@ -70,9 +70,11 @@ https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainlan
 
 [rewrite_remote]
 
-神机通用https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf
+神机通用
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf
 
-神机去广告https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
+神机去广告
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf
 
 神机去YouTube广告
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf
