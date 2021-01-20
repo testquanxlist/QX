@@ -1,6 +1,6 @@
 
 resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
-server_check_url= http://www.qualcomm.cn/generate_204
+server_check_url= http://www.google.com/generate_204
 geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
 
 server=/*.taobao.com/223.5.5.5
@@ -76,3 +76,8 @@ https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainlan
 
 神机去YouTube广告
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf
+
+
+
+
+
