@@ -25,6 +25,7 @@ server=/*.xiaomi.com/119.29.29.29
 
 [policy]
 static=AdBlock, reject, direct, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/AdBlock.png
+static=TikTok, direct, Outside, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/TikTok.png
 static=KMedia, direct, Outside, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/KR.png
 static=Apple, direct, Outside, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/Apple.png
 static=CMedia, direct, proxy, img-url=https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/IconSet/CMedia.png
@@ -45,6 +46,7 @@ static=Others, Outside, direct, img-url=https://raw.githubusercontent.com/GeQ1an
 
 [filter_remote]
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list, tag=AdBlock, enabled=true
+https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list, tag=TikTok,, enabled=true
 https://raw.githubusercontent.com/testquanxlist/QX/main/test/KMedia.list, tag=KMedia, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Apple.list, tag=Apple, enabled=true
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list, tag=CMedia, enabled=true
